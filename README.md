@@ -29,8 +29,8 @@ AppleConnectFluentClientTest 功能测试类
 
 ## 支付宝
 
-![收款码](https://github.com/lipeishen/apple-connect-java/tree/master/img/alipay.png)
+![收款码](https://github.com/lipeishen/apple-connect-java/blob/master/img/alipay.jpeg)
 
 ## 微信
 
-![收款码](https://github.com/lipeishen/apple-connect-java/tree/master/img/wechat.png)
+![收款码](https://github.com/lipeishen/apple-connect-java/blob/master/img/weichat.png)
