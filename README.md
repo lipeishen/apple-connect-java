@@ -29,8 +29,8 @@ AppleConnectFluentClientTest 功能测试类
 
 ## 支付宝
 
-![收款码](img/alipay.jpg)
+![收款码](./img/alipay.jpg)
 
 ## 微信
 
-![收款码](img/weichat.jpg)
+![收款码](./img/weichat.jpg)
